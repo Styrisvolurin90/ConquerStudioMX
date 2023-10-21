@@ -1,0 +1,36 @@
+article {
+    div {
+        div {
+            img {
+                max-width: 10%;
+                align-items: center;
+                align-content: center;
+                margin-top: 1rem;
+            }
+        }
+    }
+}
+
+.card {
+    display: flex;
+    text-align: center;
+    padding-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    align-items: center;
+    align-content: center;
+}
+
+.card-title {
+    font-weight: 800;
+    font-size: 2rem;
+    align-items: center;
+    align-content: center;
+}
+
+img.card-img-top-icon {
+    max-width: 10%;
+    align-items: center;
+    align-content: center;
+    margin-top: 1rem;
+}
