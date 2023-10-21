@@ -279,7 +279,7 @@ aside div p {
   margin-top: 10rem;
   align-items: center;
   align-content: center;
-  display: block;
+  display: flex;
 }
 
 .description {
@@ -301,6 +301,16 @@ aside div p {
 }
 .description p {
   font-weight: 300;
+}
+
+#error404 {
+  align-items: center;
+  align-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 2rem 2rem 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
